@@ -13,6 +13,10 @@ movement, odometer, ...), but he provide too, the actions like lock and unlock y
 
 For deploy this plug-in :
 
+With Jeedom Market (recommanded) : [georide](https://www.jeedom.com/market/index.php?v=d&p=market&type=plugin&&name=georide)
+
+With archive :
+
 Step 1: Rename your directory "Georide-Jeedom" to "georide" in lower case !
 
 Step 2: Copy it in your "plugins" directory on your jeedom server.
