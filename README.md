@@ -1,4 +1,4 @@
-# <img title='logo' src='https://image.noelshack.com/fichiers/2019/20/3/1557919071-georide-icon.png'/>
+# <img title='logo' width='300' src='https://github.com/ImoucheG/Georide-Jeedom/blob/master/assets/georide_icon.png?raw=true'/>
 It's a plug-in for Jeedom domotic that allow to exploit Georide API with the informations of your tracker (location, locked, in
 movement, odometer, ...), but he provide too, the actions like lock and unlock your tracker with a widget on your dashboard or with a scenario.
 ## Prerequisite
@@ -27,14 +27,14 @@ Jeedom 3.2
 
 In your menu navigate in Plugins > Security > Georide
 
-<img title='menu' src='https://image.noelshack.com/fichiers/2019/20/3/1557918522-navigate.png'/>
+<img title='menu' src='https://github.com/ImoucheG/Georide-Jeedom/blob/master/assets/navigate.png?raw=true'/>
 
 In "Configuration", you can set your email and password to get your authentication key. Your email and password will be not save. They are just
 used to get information.
 
 Uncheck/check the cycle (cron) of refresh for your informations on trackers.
 
-<img title='configuration' src='https://image.noelshack.com/fichiers/2019/20/3/1557918559-configuration.png'/>
+<img title='configuration' src='https://github.com/ImoucheG/Georide-Jeedom/blob/master/assets/configuration.png?raw=true'/>
 
 After get and fill your authentication key you can save your configuration.
 
@@ -42,7 +42,7 @@ After get and fill your authentication key you can save your configuration.
 
 Now, you can return to home page of georide and add a equipment (tracker).
 
-<img title='configuration' src='https://image.noelshack.com/fichiers/2019/20/3/1557918624-equip.png'/>
+<img title='configuration' src='https://github.com/ImoucheG/Georide-Jeedom/blob/master/assets/equip.png?raw=true'/>
 
 
 For her configuration, you must enable and set her tracker id, you can get all tracker of your account with the button below, click on
@@ -53,8 +53,8 @@ do not use GeoLock, do not fill this field.
 
 ## Demo
 
-<img title='widget' src='https://image.noelshack.com/fichiers/2019/20/3/1557919736-widget.png'/>
-<img title='commands' src='https://image.noelshack.com/fichiers/2019/20/3/1557919736-comand.png'/>
+<img title='widget' src='https://github.com/ImoucheG/Georide-Jeedom/blob/master/assets/widget.png?raw=true'/>
+<img title='commands' src='https://github.com/ImoucheG/Georide-Jeedom/blob/master/assets/comand.png?raw=true'/>
 
 
 ## Contributing
