@@ -34,7 +34,7 @@ used to get information.
 
 Uncheck/check the cycle (cron) of refresh for your informations on trackers.
 
-<img title='configuration' src='https://github.com/ImoucheG/Georide-Jeedom/blob/master/assets/configuration.png?raw=true'/>
+<img title='configuration' src='https://github.com/ImoucheG/Georide-Jeedom/blob/master/assets/configuration.PNG?raw=true'/>
 
 After get and fill your authentication key you can save your configuration.
 
@@ -42,7 +42,7 @@ After get and fill your authentication key you can save your configuration.
 
 Now, you can return to home page of georide and add a equipment (tracker).
 
-<img title='configuration' src='https://github.com/ImoucheG/Georide-Jeedom/blob/master/assets/equip.png?raw=true'/>
+<img title='equipment' src='https://github.com/ImoucheG/Georide-Jeedom/blob/master/assets/equip.PNG?raw=true'/>
 
 
 For her configuration, you must enable and set her tracker id, you can get all tracker of your account with the button below, click on
@@ -53,8 +53,8 @@ do not use GeoLock, do not fill this field.
 
 ## Demo
 
-<img title='widget' src='https://github.com/ImoucheG/Georide-Jeedom/blob/master/assets/widget.png?raw=true'/>
-<img title='commands' src='https://github.com/ImoucheG/Georide-Jeedom/blob/master/assets/comand.png?raw=true'/>
+<img title='widget' src='https://github.com/ImoucheG/Georide-Jeedom/blob/master/assets/widget.PNG?raw=true'/>
+<img title='commands' src='https://github.com/ImoucheG/Georide-Jeedom/blob/master/assets/comand.PNG?raw=true'/>
 
 
 ## Contributing
