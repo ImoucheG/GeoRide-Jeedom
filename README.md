@@ -1,10 +1,10 @@
-# <img title='logo' width='300' src='https://github.com/ImoucheG/Georide-Jeedom/blob/master/assets/georide_icon.png?raw=true'/>
-It's a plug-in for Jeedom domotic that allow to exploit Georide API with the informations of your tracker (location, locked, in
+# <img title='logo' width='300' src='https://github.com/ImoucheG/GeoRide-Jeedom/blob/master/assets/georide_icon.png?raw=true'/>
+It's a plug-in for Jeedom domotic that allow to exploit GeoRide API with the informations of your tracker (location, locked, in
 movement, odometer, ...), but he provide too, the actions like lock and unlock your tracker with a widget on your dashboard or with a scenario.
 ## Prerequisite
 
 
-- Tracker and account on [Georide](https://georide.fr/)
+- Tracker and account on [GeoRide](https://georide.fr/)
 
 - Jeedom Server with WAN connection
 
@@ -13,15 +13,11 @@ movement, odometer, ...), but he provide too, the actions like lock and unlock y
 
 For deploy this plug-in :
 
-With Jeedom Market (recommanded) : [georide](https://www.jeedom.com/market/index.php?v=d&p=market&type=plugin&&name=georide)
-
-With archive :
-
-Step 1: Rename your directory "Georide-Jeedom" to "georide" in lower case !
+Step 1: Rename your directory "GeoRide-Jeedom" to "georide" in lower case !
 
 Step 2: Copy it in your "plugins" directory on your jeedom server.
 
-Step 3: Enable the Georide plugin.
+Step 3: Enable the GeoRide plugin.
 
 ### Prerequisites
 
@@ -29,24 +25,24 @@ Jeedom 3.2
 
 ### Installing
 
-In your menu navigate in Plugins > Security > Georide
+In your menu navigate in Plugins > Security > GeoRide
 
-<img title='menu' src='https://github.com/ImoucheG/Georide-Jeedom/blob/master/assets/navigate.png?raw=true'/>
+<img title='menu' src='https://github.com/ImoucheG/GeoRide-Jeedom/blob/master/assets/navigate.png?raw=true'/>
 
 In "Configuration", you can set your email and password to get your authentication key. Your email and password will be not save. They are just
 used to get information.
 
 Uncheck/check the cycle (cron) of refresh for your informations on trackers.
 
-<img title='configuration' src='https://github.com/ImoucheG/Georide-Jeedom/blob/master/assets/configuration.PNG?raw=true'/>
+<img title='configuration' src='https://github.com/ImoucheG/GeoRide-Jeedom/blob/master/assets/configuration.PNG?raw=true'/>
 
 After get and fill your authentication key you can save your configuration.
 
 **! IMPORTANT ! If you change the authentication key you must refresh entierely your page (F5).**
 
-Now, you can return to home page of georide and add a equipment (tracker).
+Now, you can return to home page of GeoRide and add a equipment (tracker).
 
-<img title='equipment' src='https://github.com/ImoucheG/Georide-Jeedom/blob/master/assets/equip.PNG?raw=true'/>
+<img title='equipment' src='https://github.com/ImoucheG/GeoRide-Jeedom/blob/master/assets/equip.PNG?raw=true'/>
 
 
 For her configuration, you must enable and set her tracker id, you can get all tracker of your account with the button below, click on
@@ -57,13 +53,13 @@ do not use GeoLock, do not fill this field.
 
 ## Demo
 
-<img title='widget' src='https://github.com/ImoucheG/Georide-Jeedom/blob/master/assets/widget.PNG?raw=true'/>
-<img title='commands' src='https://github.com/ImoucheG/Georide-Jeedom/blob/master/assets/comand.PNG?raw=true'/>
+<img title='widget' src='https://github.com/ImoucheG/GeoRide-Jeedom/blob/master/assets/widget.PNG?raw=true'/>
+<img title='commands' src='https://github.com/ImoucheG/GeoRide-Jeedom/blob/master/assets/comand.PNG?raw=true'/>
 
 
 ## Contributing
 
-[Georide](https://georide.fr/)
+[GeoRide](https://georide.fr/)
 
 [Geoloc](https://jeedom.github.io/plugin-geoloc/fr_FR/)
 
