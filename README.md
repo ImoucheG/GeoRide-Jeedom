@@ -1,3 +1,4 @@
+# Deprecated : Follow https://github.com/ImoucheG/GeoRide-Jeedom-Source
 # <img title='logo' width='300' src='https://github.com/ImoucheG/GeoRide-Jeedom/blob/master/assets/georide_icon.png?raw=true'/>
 It's a plug-in for Jeedom domotic that allow to exploit GeoRide API with the informations of your tracker (location, locked, in
 movement, odometer, ...), but he provides too, the actions like lock and unlock your tracker using a widget on your dashboard or a scenario.
